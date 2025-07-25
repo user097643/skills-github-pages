@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my page
 ---
 
+THIS IS MY PAGE UNO YAYYY
+GO ME!!!
